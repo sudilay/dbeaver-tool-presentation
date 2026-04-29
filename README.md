@@ -139,12 +139,9 @@ dbeaver_demo_db     Up        0.0.0.0:5432->5432/tcp
 
 ## 6. AI Usage Disclosure
 
-This repository was developed with the assistance of **Antigravity (powered by Google DeepMind)**. AI assistance was used for:
-- Structuring the project layout and `docker-compose.yml`.
-- Generating the SQL schema and seed data (`seed_data.sql`).
-- Drafting documentation and README sections.
+I used **Gemini (Google AI)** as a helper for this project. I mainly used it to check my grammar, get some ideas for the sample data, and help me understand some error messages I got from Docker. All the actual work and logic are mine.
 
-All generated content was reviewed, tested, and validated by the student. See `ai_usage.md` for full details.
+You can see the full list of what I used it for in [ai_usage.md](./ai_usage.md).
 
 ---
 
